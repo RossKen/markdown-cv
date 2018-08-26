@@ -5,13 +5,8 @@ title: Ross Kennedy's CV
 # Ross Kennedy
 Data Scientist 
 
-rosskennedy1994@gmail.com
-<div id="contact_details">
-<a rosskennedy1994@gmail.com></a>
-<a 07772341674></a>
-</div>
-
 <div id="webaddress">
+<a href="rosskennedy1994@gmail.com"><email/a>
 <a href="https://github.com/RossKen">github</a>
 <a href="https://www.linkedin.com/in/ross-kennedy-data-science/">linkedin</a>
 </div>
@@ -33,8 +28,8 @@ R, RShiny, Python, Git, Github, Unit-testing, Web Scraping, Tableau, User Resear
 The Data Science Hub works as an internal consultancy within MoJ, working on collaborative projects with a range of internal customers and more widely across government.
 
 Notable Projects:
-- Natural language processing with Parliamentary questions, including clustering and visualisation in Shiny. Tool is live within MoJ with c. 50 users per week, . Code is available on [github](https://github.com/moj-analytical-services/pq-tool).
-- Creating Reproducible Analytical Pipelines to automate statistical publications.
+* Natural language processing with Parliamentary questions, including clustering and visualisation in Shiny. Tool is live within MoJ with c. 50 users per week, . Code is available on [github](https://github.com/moj-analytical-services/pq-tool).
+* Creating Reproducible Analytical Pipelines to automate statistical publications.
 
 
 **Audit Trainee**  Oct 15 - Aug 2016  
