@@ -6,7 +6,7 @@ title: Ross Kennedy's CV
 Data Scientist 
 
 <div id="webaddress">
-<a "rosskennedy1994@gmail.com">email</a>
+<a href="mailto:rosskennedy1994@gmail.com">email</a>
 <a href="https://github.com/RossKen">github</a>
 <a href="https://www.linkedin.com/in/ross-kennedy-data-science/">linkedin</a>
 </div>
