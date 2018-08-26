@@ -21,7 +21,7 @@ R, RShiny, Python, Git, Github, Unit-testing, Web Scraping, Tableau, User Resear
 *The LEGO Group, London*
 
 - Prototyping and optimising marketing mix models
-- Something else that you did. Don't be shy.
+- 
 
 **Data Scientist**  Mar 2017 - Mar 2018  
 *Ministry of Justice, London*  
