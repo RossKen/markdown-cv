@@ -1,88 +1,56 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ross Kennedy's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ross Kennedy
+Data Scientist 
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="http://en.wikipedia.org/wiki/Isaac_Newton"> My wikipedia page</a>
 </div>
 
+## Relevant skills
 
-## Currently
+R, RShiny, Python, Git, Github, Unit-testing, Web Scraping, Tableau, User Research, SCRUM
 
-Standing on the shoulders of giants
+## Experience 
 
-### Specialized in
+**Jr. Data Scientist**  Mar 2018 - current  
+*The LEGO Group, London*
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Something that you accomplished in your position; demonstrate leadership, teamwork, creativity, etc. Maybe show some numbers. Give some detail!
+- Something else that you did. Don't be shy.
+
+**Data Scientist**  Mar 2017 - Mar 2018  
+*Ministry of Justice, London*  
+The Data Science Hub works as an internal consultancy within MoJ, working on collaborative projects with a range of internal customers and more widely across government.
+
+Notable Projects:
+- Natural language processing with Parliamentary questions, including clustering and visualisation in Shiny. Tool is live within MoJ with c. 50 users per week, . Code is available on [github](https://github.com/moj-analytical-services/pq-tool).
+- Creating Reproducible Analytical Pipelines to automate statistical publications.
 
 
-### Research interests
+**Audit Trainee**  Oct 15 - Aug 2016  
+*BDO Accountants, Belfast*
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Main duties involved working on company audits, preparation of statutory accounts and monthly reporting of investment properties. While this was not a data science role, I gained a greater appreciation for how companies, across a number of industries, work and appreciate where analysis can help improve internal processes.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+**Data Science Academy**  Aug 2016 - Nov 2016  
+*Ulster University*
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+10 week intensive crash course in Data Science. Modules included:
+Data cleaning, Machine Learning, Data Mining, Statistics, Databases
+Assessed through weekly projects and presentations.
 
 
+**B.Sc. Mathematical Physics**  2012 - 2015  
+*University of Edinburgh*
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+## Personal interests
+Rugby, Olympic weightlifting, Choral singing
 
 <!-- ### Footer
 
