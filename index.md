@@ -20,7 +20,7 @@ R, RShiny, Python, Git, Github, Unit-testing, Web Scraping, Tableau, User Resear
 **Jr. Data Scientist**  Mar 2018 - current  
 *The LEGO Group, London*
 
-- Something that you accomplished in your position; demonstrate leadership, teamwork, creativity, etc. Maybe show some numbers. Give some detail!
+- Prototyping and optimising marketing mix models
 - Something else that you did. Don't be shy.
 
 **Data Scientist**  Mar 2017 - Mar 2018  
@@ -55,6 +55,6 @@ Rugby, Olympic weightlifting, Choral singing
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: August 2018 -->
 
 
