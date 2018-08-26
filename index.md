@@ -5,9 +5,15 @@ title: Ross Kennedy's CV
 # Ross Kennedy
 Data Scientist 
 
+rosskennedy1994@gmail.com
+<div id="contact_details">
+<a rosskennedy1994@gmail.com></a>
+<a 07772341674></a>
+</div>
+
 <div id="webaddress">
-<a href="https://www.linkedin.com/in/ross-kennedy-data-science/">github</a>
-<a href="https://github.com/RossKen"> linkedin</a>
+<a href="https://github.com/RossKen">github</a>
+<a href="https://www.linkedin.com/in/ross-kennedy-data-science/">linkedin</a>
 </div>
 
 ## Relevant skills
